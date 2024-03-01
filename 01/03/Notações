@@ -11,3 +11,16 @@ java --version = Verifica a versão do Java
 javac {name.java} = inicia um .class de um arquivo
 
 java {nome.class} = inicia o arquivo
+
+
+a estrutura padrão é:
+Public class {name}{
+    public static void main (String[] args){
+        //seu codigo
+    }
+}
+
+
+Importamos o Scanner para conseguir ler entradas do terminal:
+
+    import java.util.Scanner;
