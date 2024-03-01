@@ -1,0 +1,13 @@
+Para trabalharmos com Java em Visual Code precisamos instalar o pacote :
+
+    Extension Pack for Java
+
+E no windows o JDK
+
+Quando compilamos o projeto, ele criara uma arquivo ".class", esse sera lido em byte code
+
+java --version = Verifica a versão do Java
+
+javac {name.java} = inicia um .class de um arquivo
+
+java {nome.class} = inicia o arquivo
