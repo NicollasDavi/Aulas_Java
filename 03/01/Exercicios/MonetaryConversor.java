@@ -15,5 +15,7 @@ public class MonetaryConversor {
         System.out.println("Valor em Dolar: " + dolar);
         System.out.println("Valor em Euro: " + euro);
         System.out.println("Valor em Pesos Argentinos: " + peso); 
+
+        scan.close();
     }
 }
