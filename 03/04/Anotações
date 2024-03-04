@@ -1,0 +1,10 @@
+Vetores(arrays) e Repetidores
+
+
+Primeiro
+indice
+  |
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | - Indices(array de tamnho=10)
+                  |
+        Elemento na posição 5
+            (indice 4)
