@@ -8,6 +8,7 @@ public class Vetores {
         for (int i = 0; i < 3; i++) {
             System.out.println("Digite o valor da posição" + (i+1));
             vet1[i] = scan.nextInt();
+            
         }
         boolean executar = true;
         int contador = 0;
