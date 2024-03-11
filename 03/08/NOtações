@@ -1,0 +1,6 @@
+Programação Funcional
+
+Em uma função, os parenteses se referenciam a entrada dos dados, as chavaes se referenciam ao processamento dos dados que foram inseridos.
+Em linguagens C-LIKE, temos o tipo do retorno, caso não haja retorno usamos VOID
+
+Adicionar outra função é sempre dentro da classe mas fora da main
